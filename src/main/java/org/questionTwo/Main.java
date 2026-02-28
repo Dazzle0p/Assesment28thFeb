@@ -1,4 +1,4 @@
-package questionTwo;
+package org.questionTwo;
 
 public class Main {
     public static void main(String[] args) {
