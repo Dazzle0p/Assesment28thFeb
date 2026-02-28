@@ -1,4 +1,4 @@
-package org.questionTwo;
+package questionTwo;
 
 public class UsernameExistsException extends RuntimeException {
     public UsernameExistsException(String message) {

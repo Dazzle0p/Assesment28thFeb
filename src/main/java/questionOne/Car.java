@@ -1,4 +1,4 @@
-package org.questionOne;
+package questionOne;
 import java.sql.Date;
 
 
