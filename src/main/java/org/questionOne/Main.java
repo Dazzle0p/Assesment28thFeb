@@ -1,4 +1,4 @@
-package org.sushant;
+package org.questionOne;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
@@ -18,7 +18,7 @@ public class Main {
 
         System.out.println(ownersWithNoCars);
 
-        // Name of person with number of cars he has
+        // Name of owners with number of cars he has
         Map<String, Integer> ownerCarCount = CarRepository.getOwners()
                 .stream()
                 .collect(Collectors.toMap(
